@@ -1,132 +1,101 @@
-# Hi 👋, I'm Aadil Khan
-
-🚀 **Flutter Developer | Full-Stack Developer (MERN + Next.js)**  
-🔐 **Cyber Security & Ethical Hacking Learner**  
-🎓 **BCA Graduate**
-
-I build **scalable mobile apps**, **modern web applications**, and **custom software solutions** with a strong focus on **performance, clean UI, and real-world usability**.
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Aadil+Khan+👋;Flutter+Developer+🚀;Full-Stack+Developer+(MERN+%2B+Next.js);Building+Scalable+Apps+%26+Systems" />
+</p>
 
 ---
 
-## 🌐 Portfolio & Links
+## 👨‍💻 About Me
 
-- 🌍 Portfolio: **https://aadil.chillingon.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/aadilkhan00/**
-- 📧 Email: **khan.aadil8299@gmail.com**
+I’m a **Flutter & Full-Stack Developer** with hands-on experience building **production-ready mobile and web applications**.  
+I focus on **clean architecture, performance, scalability, and real-world problem solving**.
+
+🎓 BCA Graduate  
+🔐 Learning Cyber Security & Ethical Hacking  
+💼 Open to full-time, remote & freelance opportunities
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🛠 Tech Stack
 
-### 📱 Mobile Development
-- Flutter (Dart)
-- FlutterFlow
-- Firebase (Auth, Firestore, Storage)
-- REST APIs & WebSockets
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🌐 Web Development
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-- WordPress & WooCommerce
+### 🌐 Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- Postman
-- Cloudinary
-- Firebase Console
-- Linux (Basics)
-- Docker (Basics)
+### 🔥 Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📱 SortED – Smart Education Platform
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/sorted.png" width="700"/>
+</p>
+
 **Tech:** Flutter, Firebase, REST APIs, AI Models  
 - Multi-role system (Student, Teacher, Parent, Admin)
-- Attendance, marks, SPI & GPA tracking
-- AI-powered performance reports
-- Real-time updates & dashboards
+- Attendance, SPI & GPA tracking
+- AI-generated reports & insights
+- Real-time dashboards
+
+🔗 Repo: https://github.com/USERNAME/sorted-app
 
 ---
 
-### 🛒 E-Commerce Shopping App (Flutter)
+### 🛒 Flutter E-Commerce App
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/ecommerce.png" width="700"/>
+</p>
+
 **Tech:** Flutter, Firebase  
-- Product listing & cart system
-- Quantity management & total pricing
-- Order placement flow
-- Clean and reusable UI components
+- Cart & order flow
+- Clean UI & reusable widgets
+- State-managed architecture
 
----
-
-### 👖 Jeans Manufacturing System (React Native – Planned)
-**Tech:** React Native, Node.js, MongoDB  
-- 4 apps: Customer, Tailor, Delivery Boy, Admin
-- Order tracking & delivery workflow
-- Demo stitch & normal delivery flow
-- Admin dashboard for order management
+🔗 Repo: https://github.com/USERNAME/flutter-ecommerce
 
 ---
 
 ### 💬 Anonymous Chat App
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/chat.png" width="700"/>
+</p>
+
 **Tech:** Flutter, Firebase, Cloudinary  
-- Code-based anonymous chat
-- Shareable chat links
-- Media sharing (images, videos)
-- End-chat & auto delete (frontend)
+- Code-based anonymous chats
+- Media sharing
+- End-chat auto cleanup
 
----
-
-### 🧠 AI-Powered APIs
-**Tech:** FastAPI, Python, ML Models  
-- GPA Predictor API
-- Student Clustering API
-- Quiz Generator API
-- Study Planner API
-
----
-
-### 🌐 WordPress & WooCommerce Projects
-**Tech:** WordPress, WooCommerce, Custom Themes  
-- E-commerce websites
-- Payment gateway integration
-- Performance & SEO optimization
-- Custom UI & plugin configuration
+🔗 Repo: https://github.com/USERNAME/anonymous-chat
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadilkhan00&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadilkhan00&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilkhan00&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilkhan00&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
-- Advanced Flutter Architecture
-- Cyber Security & Ethical Hacking
-- API Security & Authentication
-- System Design Basics
+## 📫 Contact
+
+- 🌐 Portfolio: https://aadil.chillingon.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/aadilkhan00  
+- 📧 Email: khan.aadil8299@gmail.com  
 
 ---
 
-## 🤝 Open For Opportunities
-
-- Flutter App Development
-- Full-Stack Web Development
-- Freelance & Remote Work
-- Startup Collaborations
-
-📩 Feel free to reach out if you’d like to collaborate or discuss an idea!
-
----
-
-⭐ *If you like my work, consider starring my repositories!*  
+⭐ *If you like my work, please consider starring my repositories.*

@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hijack-00&theme=darkhub&row=1&column=6" />
+<img src="https://github-trophy-six.vercel.app/?username=hijack-00&theme=tokyonight&column=-1)](https://github.com/hijack-00" />
 </p>
 
 ---

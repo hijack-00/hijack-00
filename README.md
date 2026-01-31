@@ -1,101 +1,75 @@
-<!-- Animated Typing Intro -->
+[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/YOUR_GITHUB_USERNAME)
+
+<h1 align="center">Hi 👋, I'm Aadil Khan</h1>
+<h3 align="center">Full Stack Website & Mobile App Developer | Flutter • React Native • Web</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Aadil+Khan+👋;Flutter+Developer+🚀;Full-Stack+Developer+(MERN+%2B+Next.js);Building+Scalable+Apps+%26+Systems" />
+🚀 Building scalable apps • APIs • Firebase • UI/UX
+</p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&row=1&column=6" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I’m a **Flutter & Full-Stack Developer** with hands-on experience building **production-ready mobile and web applications**.  
-I focus on **clean architecture, performance, scalability, and real-world problem solving**.
-
-🎓 BCA Graduate  
-🔐 Learning Cyber Security & Ethical Hacking  
-💼 Open to full-time, remote & freelance opportunities
-
----
-
-## 🛠 Tech Stack
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🔥 Backend & DB
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- 🔭 Currently working on **E-Commerce & Client Projects**
+- 🌱 Learning **Cyber Security & Advanced Flutter**
+- 👯 Open to collaborate on **Startup & App Ideas**
+- 🤝 Looking for help with **AI Integrations**
+- 💬 Ask me about **Flutter, APIs, Firebase, Web Development**
+- 📫 Reach me at: **your@email.com**
 
 ---
 
-## 🚀 Featured Projects
+### 🌐 Connect With Me
 
-### 📱 SortED – Smart Education Platform
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/sorted.png" width="700"/>
-</p>
+<p align="left">
+<a href="https://linkedin.com/in/aadilkhan00" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 
-**Tech:** Flutter, Firebase, REST APIs, AI Models  
-- Multi-role system (Student, Teacher, Parent, Admin)
-- Attendance, SPI & GPA tracking
-- AI-generated reports & insights
-- Real-time dashboards
-
-🔗 Repo: https://github.com/USERNAME/sorted-app
-
----
-
-### 🛒 Flutter E-Commerce App
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/ecommerce.png" width="700"/>
-</p>
-
-**Tech:** Flutter, Firebase  
-- Cart & order flow
-- Clean UI & reusable widgets
-- State-managed architecture
-
-🔗 Repo: https://github.com/USERNAME/flutter-ecommerce
-
----
-
-### 💬 Anonymous Chat App
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/chat.png" width="700"/>
-</p>
-
-**Tech:** Flutter, Firebase, Cloudinary  
-- Code-based anonymous chats
-- Media sharing
-- End-chat auto cleanup
-
-🔗 Repo: https://github.com/USERNAME/anonymous-chat
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadilkhan00&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilkhan00&theme=tokyonight" />
+<a href="https://instagram.com/aadil_khan.dev" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-## 📫 Contact
+### 🛠 Languages & Tools
 
-- 🌐 Portfolio: https://aadil.chillingon.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/aadilkhan00  
-- 📧 Email: khan.aadil8299@gmail.com  
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</p>
 
 ---
 
-⭐ *If you like my work, please consider starring my repositories.*
+### 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+</p>

@@ -182,7 +182,7 @@ const aadil = {
 <!-- GitHub Streak Stats (with cache buster) -->
 <p align="center">
   <a href="https://github.com/hijack-00">
-    <img src="https://streak-stats.demolab.com?user=hijack-00&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=0" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=hijack-00&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&v=20260131225500" alt="GitHub Streak"/>
   </a>
 </p>
 

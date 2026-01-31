@@ -179,10 +179,10 @@ const aadil = {
   </a>
 </p>
 
-<!-- GitHub Streak Stats (with cache buster) -->
+<!-- GitHub Streak Stats -->
 <p align="center">
   <a href="https://github.com/hijack-00">
-    <img src="https://streak-stats.demolab.com/?user=hijack-00&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hijack-00&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
   </a>
 </p>
 

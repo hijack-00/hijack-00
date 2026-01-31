@@ -4,7 +4,7 @@
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://github.com/hijack-00">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Building+Scalable+Apps+%26+APIs;💡+Passionate+About+Clean+Code;🔥+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+Scalable+Apps+and+APIs;Passionate+About+Clean+Code;Turning+Ideas+Into+Reality" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ const aadil = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73444672327442412f6b656532736f41444d4c4f514b724f64774f674b46586f2f3231636665326133636364326632376535396137653862633662636635366439643132303235346266353865623438616439303366623530616435666531313230323430333566633532666130613135667a66383462376537343434353839343532552e6769663f666f726d61743d3235303077">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🎯 Quick Highlights
 
@@ -60,7 +60,7 @@ const aadil = {
   <a href="https://instagram.com/aadil_khan.dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:your@email.com" target="_blank">
+  <a href="mailto:khan.aadil8299@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/hijack-00" target="_blank">
@@ -182,14 +182,14 @@ const aadil = {
 <!-- GitHub Streak Stats -->
 <p align="center">
   <a href="https://github.com/hijack-00">
-    <img src="https://streak-stats.demolab.com?user=hijack-00&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hijack-00&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
   </a>
 </p>
 
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/hijack-00">
-    <img src="https://github-profile-trophy.vercel.app/?username=hijack-00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=hijack-00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
   </a>
 </p>
 

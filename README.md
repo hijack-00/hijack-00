@@ -179,11 +179,11 @@ const aadil = {
   </a>
 </p>
 
-<!-- GitHub Stats Badges (Always Reliable) -->
+<!-- GitHub Streak Stats (with cache buster) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-check%20below-70A5FD?style=for-the-badge&logo=github" alt="Commits"/>
-  <img src="https://img.shields.io/github/commit-activity/m/hijack-00/hijack-00?style=for-the-badge&color=70A5FD&label=Monthly%20Commits" alt="Monthly Commits"/>
-  <img src="https://img.shields.io/github/last-commit/hijack-00/hijack-00?style=for-the-badge&color=70A5FD" alt="Last Commit"/>
+  <a href="https://github.com/hijack-00">
+    <img src="https://streak-stats.demolab.com?user=hijack-00&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=0" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <!-- Contribution Calendar from Profile Summary Cards (Reliable) -->

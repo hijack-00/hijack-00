@@ -63,7 +63,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hijack-00&show_icons=true&theme=tokyonight"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=hijack-00&show_icons=true&theme=tokyonight"/> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hijack-00&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -71,5 +72,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijack-00&layout=compact&theme=tokyonight"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijack-00&layout=compact&theme=tokyonight"/> -->
+<img src="https://img.shields.io/github/stars/hijack-00?style=social"/>
 </p>

@@ -179,24 +179,17 @@ const aadil = {
   </a>
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Stats Badges (Always Reliable) -->
 <p align="center">
-  <a href="https://github.com/hijack-00">
-    <img src="https://streak-stats.demolab.com?user=hijack-00&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-  </a>
+  <img src="https://img.shields.io/badge/Total%20Commits-check%20below-70A5FD?style=for-the-badge&logo=github" alt="Commits"/>
+  <img src="https://img.shields.io/github/commit-activity/m/hijack-00/hijack-00?style=for-the-badge&color=70A5FD&label=Monthly%20Commits" alt="Monthly Commits"/>
+  <img src="https://img.shields.io/github/last-commit/hijack-00/hijack-00?style=for-the-badge&color=70A5FD" alt="Last Commit"/>
 </p>
 
-<!-- GitHub Trophies -->
+<!-- Contribution Calendar from Profile Summary Cards (Reliable) -->
 <p align="center">
   <a href="https://github.com/hijack-00">
-    <img src="https://github-trophies.vercel.app/?username=hijack-00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-  </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/hijack-00">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hijack-00&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hijack-00&theme=tokyonight" alt="Contribution Graph"/>
   </a>
 </p>
 
